@@ -1,7 +1,5 @@
 # React Portfolio
 
-## React Portfolio
-
 ## Description 
 - a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
 

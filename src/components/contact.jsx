@@ -17,7 +17,7 @@ class Contact extends React.Component {
                   <div className="row">
                     <div className="col-md-6">
                       <div className="title-box-2">
-                        <h5 className="title-left">Send A Message</h5>
+                        <h5 className="title-left">Transmit A Message</h5>
                       </div>
                       <div>
                         <form
@@ -109,11 +109,6 @@ class Contact extends React.Component {
                           <br />
                           Simply fill the from and send me an email.
                         </p>
-                        {/* <!-- <ul class="list-ico">
-                                <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                                <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                                <li><span class="ion-email"></span> contact@example.com</li>
-                                </ul> --> */}
                       </div>
                       <div className="socials">
                         <ul>
@@ -130,7 +125,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://github.com/Astemcode?tab=repositories"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -141,7 +136,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://www.linkedin.com/in/joivre-charles-002b40127"
                               target="_blank"
                               rel="noopener noreferrer"
                             >

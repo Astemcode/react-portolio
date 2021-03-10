@@ -6,8 +6,8 @@ class About extends React.Component {
     super();
     this.state = {
       skills: [
-        { id: "HTML5_skill", content: "HTML5", porcentage: "80%", value: "80" },
-        { id: "CSS3_skill", content: "CSS3", porcentage: "75%", value: "75" },
+        { id: "HTML5_skill", content: "HTML5", porcentage: "90%", value: "90" },
+        { id: "CSS3_skill", content: "CSS3", porcentage: "80%", value: "80" },
         {
           id: "JavaScript_skill",
           content: "JavaScript",
@@ -21,12 +21,12 @@ class About extends React.Component {
           porcentage: "80%",
           value: "80"
         },
-        {
-          id: "Python_skill",
-          content: "Python",
-          porcentage: "75%",
-          value: "75"
-        },
+        // {
+        //   id: "Python_skill",
+        //   content: "Python",
+        //   porcentage: "75%",
+        //   value: "75"
+        // },
         {
           id: "VanillaJS_skill",
           content: "VanillaJS",
@@ -49,7 +49,7 @@ class About extends React.Component {
         {
           id: "second-p-about",
           content:
-            "Place Holder"
+            "Having the opportunity to be a software engineer has been one of the more fulfilling things I've had the opportunity to engage in. Nevertheless, living in Miami I really get the opportunity to enjoy tranquil sceneries, with pleasant skies."
         },
         {
           id: "third-p-about",
