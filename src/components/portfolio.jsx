@@ -1,7 +1,7 @@
 import React from "react";
 
 //import stock
-import stock from "../img/image1.jpg";
+import stock from "../img/map3ater.png";
 import stock1 from "../img/image2.jpg";
 import stock2 from "../img/image3.jpg";
 import stock3 from "../img/image4.jpg";
@@ -18,8 +18,7 @@ class Portfolio extends React.Component {
               <div className="title-box text-center">
                 <h3 className="title-a">Portfolio</h3>
                 <p className="subtitle-a">
-                  Incididunt nostrud id aute culpa excepteur pariatur consequat
-                  elit culpa nulla enim anim incididunt.
+                  Take a look at some of the projects I've been able to create!
                 </p>
                 <div className="line-mf"></div>
               </div>
