@@ -83,9 +83,16 @@ class About extends React.Component {
 							              src={myImage}
 							              alt=""
 							              style={{
-								              borderRadius: 50 + "%",
-								              height: 250 + "px",
-								              width: 250 + "px"
+								              borderRadius: 48 + "%",
+								              height: 200 + "px",
+								              width: 200 + "px",
+                              paddingRight: "-122",
+                              marginRight: 0 + "px",
+                              borderTopWidth: 300 + "px",
+                              borderTop: "outset",
+                              borderBottomStyle: "inset",
+                              borderRightStyle: "inset",
+                              borderLeft: "outset",
 							                    }}/>
                         </div>
                       </div>
