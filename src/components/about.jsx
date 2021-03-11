@@ -1,5 +1,5 @@
 import React from "react";
-import myImage from "../img/myImage.png";
+import myImage from "../img/myImage.jpg";
 
 class About extends React.Component {
   constructor() {
@@ -54,7 +54,7 @@ class About extends React.Component {
         {
           id: "third-p-about",
           content:
-            "Place Holder"
+            ""
         }
       ]
     };
@@ -79,9 +79,14 @@ class About extends React.Component {
                           style={{ textAlign: "center" }}
                         >
                           <img
-                            className="img-fluid rounded b-shadow-a"
-                            alt=""
-                          />
+							              className={"img-fluid " + this.props.fadeIn}
+							              src={myImage}
+							              alt=""
+							              style={{
+								              borderRadius: 50 + "%",
+								              height: 250 + "px",
+								              width: 250 + "px"
+							                    }}/>
                         </div>
                       </div>
                     </div>

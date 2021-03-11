@@ -106,7 +106,8 @@ class Contact extends React.Component {
                           Whether you want to get in touch, talk about a project
                           collaboration, or just say hi, I'd love to hear from
                           you.
-                          <br />
+                          <br/>
+                          <br/>
                           Simply fill the from and send me an email.
                         </p>
                       </div>
@@ -118,9 +119,9 @@ class Contact extends React.Component {
                               target="_blank"
                               rel="noopener noreferrer"
                             >
-                              <span className="ico-circle">
+                              {/* <span className="ico-circle">
                                 <i className="ion-social-codepen"></i>
-                              </span>
+                              </span> */}
                             </a>
                           </li>
                           <li>

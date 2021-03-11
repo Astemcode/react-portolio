@@ -84,13 +84,14 @@ class Navbar extends React.Component {
       <nav
         className="navbar navbar-b navbar-trans navbar-expand-md fixed-top"
         id="mainNav"
+        style={{height: "75px"}}
       >
         <div className="container">
           <a className="navbar-brand js-scroll" href="#page-top">
             <img
               src={this.state.logo}
               alt="logo"
-              style={{ maxWidth: "100px" }}
+              style={{ maxWidth: "100px",width: "50px" }}
             />
           </a>
           <button
