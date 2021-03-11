@@ -34,11 +34,13 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">Map3ater</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap ReactJS
+                            HTML5 CSS3 Materialize
                           </span>
+                          <br/>
+                          <p><a href="https://jimgigantes.github.io/Map3ater/index.html">Discover a Dish!</a></p>
                         </div>
                       </div>
                       <div className="col-sm-4">
