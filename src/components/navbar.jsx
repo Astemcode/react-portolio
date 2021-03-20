@@ -1,6 +1,6 @@
 import React from "react";
 import $ from "jquery";
-
+import Pdf from "./JoivreResume.pdf";
 import logo1 from "../img/astropoint.png";
 import logo2 from "../img/astroskate2.png";
 
@@ -133,10 +133,7 @@ class Navbar extends React.Component {
                 </a>
               </li>
               <li className="nav-item">
-                {/* <a className="nav-link js-scroll" href="../documents/JoivreResume.pdf" target="_blank">
-                  Resume
-                </a> */}
-                <a className="nav-link js-scroll" href={require('../documents/JoivreResume.pdf')} target="_blank"> Resume </a>
+                <a className="nav-link js-scroll" href={Pdf} target="_blank" id="resumeLink"> Resume </a>
               </li>
             </ul>
           </div>
