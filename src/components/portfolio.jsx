@@ -146,6 +146,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
+                <a href="https://shrouded-beyond-51683.herokuapp.com/?id=602da8b19b70900015b7d470" target="_blank" id="mapLink">Break a Sweat!</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -157,6 +158,7 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
+                        <br/>
                         <h2 className="w-title">Budget Tracker</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
@@ -208,6 +210,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
+                <a href=" https://sheltered-reaches-79050.herokuapp.com/" target="_blank" id="mapLink">Track your Spending!</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -269,6 +272,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
+                <a href="https://astemcode.github.io/Password-Generator/" target="_blank" id="mapLink">Protect Yourself!</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -328,6 +332,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
+                <a href="https://astemcode.github.io/Day-Planner/" target="_blank" id="mapLink">Plan your Day!</a>
               </div>
             </div>
             <div className="col-md-4">
