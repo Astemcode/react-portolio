@@ -39,8 +39,6 @@ class Portfolio extends React.Component {
                           <span className="w-ctegory">
                             HTML5 CSS3 Materialize
                           </span>
-                          <br/>
-                          <p><a href="https://jimgigantes.github.io/Map3ater/index.html">Discover a Dish!</a></p>
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -86,6 +84,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
+                <a href="https://jimgigantes.github.io/Map3ater/index.html" target="_blank" id="mapLink">Discover a Dish!</a>
               </div>
             </div>
             <div className="col-md-4">

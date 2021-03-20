@@ -998,3 +998,7 @@ BUTTON
     bottom: 15px;
   }
 }
+
+#mapLink {
+  padding-left: 10px;
+}
