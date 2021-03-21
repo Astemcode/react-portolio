@@ -701,6 +701,7 @@ PORTFOLIO
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+  padding-bottom: 10px;
 }
 
 .work-box:hover img {
@@ -999,6 +1000,6 @@ BUTTON
   }
 }
 
-#mapLink {
+#projectLink {
   padding-left: 10px;
 }
