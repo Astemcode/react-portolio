@@ -85,6 +85,8 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a href="https://infinite-atoll-29760.herokuapp.com/" target="_blank" id="projectLink">Buy something Nice!</a>
+                <br/>
+                <a href="https://github.com/Astemcode/Electro-City" target="_blank" id="projectLink">Repository</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -147,6 +149,8 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a href="https://jimgigantes.github.io/Map3ater/index.html" target="_blank" id="projectLink">Discover a Dish!</a>
+                <br/>
+                <a href="https://github.com/JimGigantes/Map3ater" target="_blank" id="projectLink">Repository</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -209,6 +213,8 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a href="https://shrouded-beyond-51683.herokuapp.com/?id=602da8b19b70900015b7d470" target="_blank" id="projectLink">Break a Sweat!</a>
+                <br/>
+                <a href="https://github.com/Astemcode/Workout-Tracker" target="_blank" id="projectLink">Repository</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -272,6 +278,8 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a href=" https://sheltered-reaches-79050.herokuapp.com/" target="_blank" id="projectLink">Track your Spending!</a>
+                <br/>
+                <a href="https://github.com/Astemcode/Budget-Tracker" target="_blank" id="projectLink">Repository</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -334,6 +342,8 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a href="https://astemcode.github.io/Password-Generator/" target="_blank" id="projectLink">Protect Yourself!</a>
+                <br/>
+                <a href="https://github.com/Astemcode/Password-Generator" target="_blank" id="projectLink">Repository</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -394,6 +404,8 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a href="https://astemcode.github.io/Day-Planner/" target="_blank" id="projectLink">Plan your Day!</a>
+                <br/>
+                <a href="https://github.com/Astemcode/Day-Planner" target="_blank" id="projectLink">Repository</a>
               </div>
             </div>
           </div>
