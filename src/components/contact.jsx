@@ -108,7 +108,8 @@ class Contact extends React.Component {
                           you.
                           <br/>
                           <br/>
-                          Simply fill the from and send me an email.
+                          Simply fill out the form and send me a message. Also don't forget to check out my links below or send me an email
+                          <a href="mailto:astemcode@gmail.com"> astemcode@gmail.com.</a>
                         </p>
                       </div>
                       <div className="socials">
@@ -119,9 +120,9 @@ class Contact extends React.Component {
                               target="_blank"
                               rel="noopener noreferrer"
                             >
-                              {/* <span className="ico-circle">
+                              <span className="ico-circle">
                                 <i className="ion-social-codepen"></i>
-                              </span> */}
+                              </span>
                             </a>
                           </li>
                           <li>
@@ -143,6 +144,17 @@ class Contact extends React.Component {
                             >
                               <span className="ico-circle">
                                 <i className="ion-social-linkedin"></i>
+                              </span>
+                            </a>
+                          </li>
+                          <li>
+                            <a
+                              href="mailto:astemcode@gmail.com"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className="ion-ios-email"></i>
                               </span>
                             </a>
                           </li>
