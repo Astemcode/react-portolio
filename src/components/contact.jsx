@@ -109,7 +109,7 @@ class Contact extends React.Component {
                           <br/>
                           <br/>
                           Simply fill out the form and send me a message. Also don't forget to check out my links below, view my
-                          <a href="src/documents/JoivreResume1.pdf"> resume,</a> or send me an email
+                          <a href="assets/pdfs/JoivreResume1.pdf" target="_blank"> resume,</a> or send me an email
                           <a href="mailto:astemcode@gmail.com"> astemcode@gmail.com.</a>
                         </p>
                       </div>
@@ -117,7 +117,7 @@ class Contact extends React.Component {
                         <ul>
                           <li>
                             <a
-                              href="src/documents/JoivreResume1.pdf"
+                              href="assets/pdfs/JoivreResume1.pdf"
                               target="_blank"
                             >    
                               <span className="ico-circle">
