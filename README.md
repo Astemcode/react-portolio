@@ -1,4 +1,4 @@
-# React Portfolio
+# Portfolio
 
 ## Description 
 - A portfolio utilizing React to assist in displaying a portion of my personal projects and professional documentation.
