@@ -3,12 +3,10 @@
 ## Description 
 - A portfolio utilizing React to assist in displaying a portion of my personal projects and professional documentation.
 
-
-* [Usage](#usage)
-* [Contributing](#contributors)
-* [Installation](#installation)
-* [Badges](#badges)
-* [Author](#author)
+    * [Usage](#usage)
+    * [Installation](#installation)
+    * [Badges](#badges)
+    * [Author](#author)
 
 ## Usage
 - Display of my personal and professional projects to share with developer peers.
