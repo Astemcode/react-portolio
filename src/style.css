@@ -4,7 +4,7 @@ GENERAL STYLING
 body {
   background-color: #f5f5f5!important;
   color: #4e4e4e!important;
-  text-align: center;
+  text-align: left;
 }
 
 h1,
@@ -687,11 +687,13 @@ ABOUT
   margin: .5rem 0 1.2rem 0;
   border-radius: 0;
   height: .7rem;
+  text-align: center;
 }
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
   background-color: #ffffff;
+  text-align: center;
 }
 
 /*
